@@ -36,7 +36,7 @@ It also includes an interactive web application for real-time predictions.
 
 ## Project Structure
 
-
+'''
 Campus-Placement-Prediction/
 │
 ├── data/
@@ -58,7 +58,7 @@ Campus-Placement-Prediction/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-
+'''
 
 ---
 
@@ -90,19 +90,19 @@ The dataset contains student-related features such as:
 
 1. Clone the repository:
 
-git clone https://github.com/nitheesh011109/Campus-Placement-Prediction.git
+  git clone https://github.com/nitheesh011109/Campus-Placement-Prediction.git
 <br>
-cd Campus-Placement-Prediction
+  cd Campus-Placement-Prediction
 
 
 2. Install dependencies:
 
-pip install -r requirements.txt
+  pip install -r requirements.txt
 
 
 3. Run the application:
 
-streamlit run app.py
+  streamlit run app.py
 
 
 ---
