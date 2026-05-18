@@ -36,7 +36,7 @@ It also includes an interactive web application for real-time predictions.
 
 ## Project Structure
 
-'''
+
 Campus-Placement-Prediction/
 │
 ├── data/
@@ -58,7 +58,6 @@ Campus-Placement-Prediction/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-'''
 
 ---
 
