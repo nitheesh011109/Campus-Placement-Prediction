@@ -37,22 +37,22 @@ It also includes an interactive web application for real-time predictions.
 ## Project Structure
 
 
-placement-prediction/
+Campus-Placement-Prediction/
 │
 ├── data/
-│ ├── placement_data.csv
-│ └── salary_data.csv
+│   ├── placement_data.csv
+│   └── salary_data.csv
 │
 ├── models/
-│ ├── placement_model.pkl
-│ └── salary_model.pkl
+│   ├── placement_model.pkl
+│   └── salary_model.pkl
 │
 ├── notebooks/
-│ └── preprocessing.ipynb
+│   └── preprocessing.ipynb
 │
 ├── src/
-│ ├── placement_prediction.py
-│ └── salary_prediction.py
+│   ├── placement_prediction.py
+│   └── salary_prediction.py
 │
 ├── app.py
 ├── requirements.txt
@@ -91,6 +91,7 @@ The dataset contains student-related features such as:
 1. Clone the repository:
 
 git clone https://github.com/nitheesh011109/Campus-Placement-Prediction.git
+<br>
 cd Campus-Placement-Prediction
 
 
